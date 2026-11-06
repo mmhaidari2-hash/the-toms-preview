@@ -1,0 +1,47 @@
+{
+ "characterId": "william",
+ "milestones": [
+  {
+   "id": "M0",
+   "title": "Little chatterbox",
+   "titleFa": "پرحرف کوچولو",
+   "threshold": 0,
+   "description": "Short sentences: \"I want juice!\" \"Look, a bus!\"",
+   "descriptionFa": "جمله‌های کوتاه: «آب‌میوه می‌خوام!» «ببین، اتوبوس!»",
+   "unlocks": []
+  },
+  {
+   "id": "M1",
+   "title": "Look, I can hop!",
+   "titleFa": "ببین، می‌تونم لی‌لی کنم!",
+   "threshold": 20,
+   "description": "William learns to jump and hop on cushion stepping stones.",
+   "descriptionFa": "ویلیام پریدن و لی‌لی کردن روی سنگ‌چینِ کوسنی را یاد می‌گیرد.",
+   "unlocks": [
+    "william_steps"
+   ]
+  },
+  {
+   "id": "M2",
+   "title": "Under the weather",
+   "titleFa": "کمی ناخوش",
+   "threshold": 35,
+   "description": "William's poorly — help Nana Maggie look after him.",
+   "descriptionFa": "ویلیام ناخوش است — به نانا مگی در مراقبت کمک کن.",
+   "unlocks": [
+    "weda_illness"
+   ]
+  },
+  {
+   "id": "M3",
+   "title": "A million questions",
+   "titleFa": "یک میلیون سؤال",
+   "threshold": 50,
+   "description": "\"Why does the bus go ding ding?\" — William asks about everything.",
+   "descriptionFa": "«چرا اتوبوس دینگ دینگ می‌کنه؟» — ویلیام دربارهٔ همه چیز می‌پرسد.",
+   "unlocks": [
+    "william_sentences"
+   ]
+  }
+ ]
+}
